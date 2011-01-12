@@ -3,7 +3,7 @@ require 'net/http'
 require 'rexml/document' 
 require 'uri'
 
-@@token = 'NAaWN3Jxs0BwU1cD3FvB3w'
+@@token = ''
 @@hostname = 'api.kayak.com'
 @@port = 80
 
